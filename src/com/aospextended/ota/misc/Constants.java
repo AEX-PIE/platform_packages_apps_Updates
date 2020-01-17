@@ -40,7 +40,7 @@ public final class Constants {
     static final String PROP_BUILD_VERSION = "ro.modversion";
     static final String PROP_VERSION_CODE = "ro.extended.ota.version_code";
     static final String OTA_URL = "https://raw.githubusercontent.com/AEX-PIE/device_ota/%s/%s";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/AEX-PIE/device_changelog/%s/%s";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/AEX-PIE/device_changelog/Changelogs.txt";
     static final String DOWNLOAD_PATH = "/data/system_updates/";
     static final String EXPORT_PATH = "AospExtended-Updates/";
 }
